@@ -24,7 +24,7 @@ export default function Hero() {
           </p>
           <div className="flex flex-wrap gap-4">
             <Button size="lg" asChild>
-              <a href="/resume.pdf" download>
+              <a href="/siddharth_goradia_resume.pdf" download>
                 <DownloadIcon className="mr-2 h-4 w-4" />
                 Download Resume
               </a>
