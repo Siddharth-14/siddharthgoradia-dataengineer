@@ -6,6 +6,16 @@ const projects = [
     title: "Real-Time Data Pipeline with Change Data Capture (CDC)",
     description: "Designed and implemented a real-time data pipeline leveraging Change Data Capture (CDC) techniques with Debezium, Kafka, PostgreSQL, and Docker, enabling efficient and scalable data synchronization, real-time analytics, and event-driven architectures.",
     tags: ["Debezium", "Kafka", "PostgreSQL", "Docker"]
+  },
+  {
+    title: "Unsupervised Mental Health Topic Classification",
+    description: "Developed a streamlined Flask API endpoint on Google Kubernetes for real-time mental health topic classification, integrating LDA model outputs to provide insights on mental health issue probabilities, saving mental health experts 20 hours per week while ensuring appropriate care for individuals seeking mental health support.",
+    tags: ["Flask", "Linear discriminant analysis (LDA)", "Google Kubernetes"]
+  },
+  {
+    title: "Vancouver Crime Data Analysis",
+    description: "Spearheaded the design and implementation of an innovative system for the Vancouver Police department, utilizing AWS, Apache Spark, Dash, and SQL to identify problem hotspots and allocate resources based on crime type",
+    tags: ["Amazon Web Services (AWS)", "PySpark", "Dash", "SQL"]
   }
 ];
 
