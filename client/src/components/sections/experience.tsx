@@ -27,8 +27,8 @@ const experiences = [
     icon: FaBuilding
   },
   {
-    title: "HANA Support Intern",
-    company: "SAP Inc.",
+    title: "HANA Product Support Engineering Intern",
+    company: "SAP Canada Inc.",
     period: "May 2023 – December 2023",
     description: [
       "Streamlined ticket scheduling system through analysis and optimization of software performance and automation using Python and Tableau, improving case assignment efficiency by 20%.",
@@ -38,7 +38,7 @@ const experiences = [
     icon: SiSap
   },
   {
-    title: "Business Technology Solutions Associate",
+    title: "Business Data Engineering Associate",
     company: "ZS Associates",
     period: "July 2021 – July 2022",
     description: [
@@ -49,7 +49,7 @@ const experiences = [
     icon: FaBuilding
   },
   {
-    title: "Engineering Intern",
+    title: "Data Engineering Intern",
     company: "Publicis Sapient",
     period: "January 2021 – June 2021",
     description: [
