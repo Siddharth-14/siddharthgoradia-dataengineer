@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { LinkedinIcon, DownloadIcon } from "lucide-react";
+import { LinkedinIcon, DownloadIcon, Github } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -33,6 +33,12 @@ export default function Hero() {
               <a href="https://www.linkedin.com/in/siddarth-goradia" target="_blank" rel="noopener noreferrer">
                 <LinkedinIcon className="mr-2 h-4 w-4" />
                 LinkedIn
+              </a>
+            </Button>
+            <Button size="lg" variant="outline" asChild>
+              <a href="https://github.com/Siddharth-14" target="_blank" rel="noopener noreferrer">
+                <Github className="mr-2 h-4 w-4" />
+                Github
               </a>
             </Button>
           </div>
