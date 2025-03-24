@@ -16,6 +16,11 @@ const projects = [
     title: "Vancouver Crime Data Analysis",
     description: "Spearheaded the design and implementation of an innovative system for the Vancouver Police department, utilizing AWS, Apache Spark, Dash, and SQL to identify problem hotspots and allocate resources based on crime type",
     tags: ["Amazon Web Services (AWS)", "PySpark", "Dash", "SQL"]
+  },
+  {
+    title: "Retail Sales Analysis and Forecasting",
+    description: "Deployed a GCP-based ETL pipeline that pulled data from Cloud Storage into BigQuery, performed cleaning and transformation, and trained an ML model for sales predictions.",
+    tags: ["Python", "Data Engineering", "ETL", "BigQuery", "Machine Learning", "Google Cloud Platform (GCP)", "Google Composer", "Airflow"]
   }
 ];
 
